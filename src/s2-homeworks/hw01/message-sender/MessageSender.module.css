@@ -1,0 +1,44 @@
+.sendForm {
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.textarea {
+    width: 976px;
+    min-height: 40px ;
+    border-radius: 20px;
+    resize: none;
+    background-color: #F5F7FB;
+    color: #00000099;
+    font-size: 14px;
+    padding: 12px 0 11px 24px;
+    overflow: hidden;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 32px;
+}
+
+
+.textarea:focus {
+    outline: none;
+}
+
+.button {
+    width: 120px;
+    height: 40px;
+    background: #0066CC;
+    border-radius: 20px;
+    border: none;
+    color: #DDEEFF;
+    margin-left: 44px;
+}
+
+.button:hover {
+
+}
+.button:active {
+
+}
+.hrLine{
+    border-top: 1px solid #D9D9D9;
+}
